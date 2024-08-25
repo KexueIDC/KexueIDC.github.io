@@ -1,1 +1,5 @@
-a
+# 宝塔安装教程
+
+## 科学镜面-教程: [官网教程] (https://www.kexueidc.com/helpcontent/8.html)
+
+## Github-教程: (懒得写)
